@@ -1,2 +1,2 @@
 # Streamlit1
-Simple Stockd Dashboard
+Simple Stocks Dashboard
