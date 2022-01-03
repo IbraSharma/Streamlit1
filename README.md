@@ -1,2 +1,2 @@
 # Streamlit1
-Simple Stocks Dashboard
+Stock Returns Dashboard
