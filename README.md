@@ -1,2 +1,2 @@
-# Streamlit1
+# Stock1 web app deployed on Heroku
 Stock Returns Dashboard
